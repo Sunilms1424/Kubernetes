@@ -104,3 +104,6 @@ Then, you need to add the context:
 kubectl config set-context myuser --cluster=kubernetes --user=myuser
 ```
 here you are adding the user to cluster 
+ --cluster : you need to provide the name of cluster 
+ -- user : you need to provide the user name 
+ 
